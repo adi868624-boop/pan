@@ -1,0 +1,7 @@
+{
+  "name": "PAN Mitra",
+  "description": "PAN Card document collection, retailer submission & admin management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
